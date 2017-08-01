@@ -1,15 +1,2 @@
-# [Bodnuk] - [Apps]
- 
-## Getting Started
-
- 
-## Bugs and Issues
-
- ## Creator
-
- 
-
- 
-## Copyright and License
-
+# BodNuk Apps
  
